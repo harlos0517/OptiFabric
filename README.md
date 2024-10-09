@@ -59,3 +59,5 @@ This would not have been possible without Chocohead's [Fabric-ASM](https://githu
 8. Register the patching tweaker for every class that needs replacing
 9. Replace the target class with the class that was extracted, also do some more fixes to it, and make it public (due to access issues).
 10. Hope it works
+
+
